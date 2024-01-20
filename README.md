@@ -1,4 +1,5 @@
-For my gf
+For a very special person
 
-Hii just exercising making this project for my gf !
-Hope it'll work well^^
+I made this little webpage after seeing something similar on socials.
+
+Feel free to use this code for your site or however y'all see fit!
